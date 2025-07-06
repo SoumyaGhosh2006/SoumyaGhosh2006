@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi there! 👋 I'm Soumya Ghosh
+🎯 About Me
+A passionate Web Developer from KIIT University, India.
+🔭 I'm currently working on:
 
-<!--
-**SoumyaGhosh2006/SoumyaGhosh2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building an AI Medical Website (exciting project in development!)
+Mastering MongoDB and database architecture
+Enhancing my full-stack development skills
 
-Here are some ideas to get you started:
+👯 I'm looking to collaborate on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Medical Website project
+Full-stack web development projects
+Open source contributions
+
+🌱 I'm currently learning:
+
+MongoDB and database design
+Advanced JavaScript frameworks
+AI integration in web applications
+
+💬 Ask me about:
+
+Web Development (HTML, CSS, JavaScript, React)
+Programming in Java and C
+Database management with MongoDB
+Building responsive web applications
+
+⚡ Fun fact:
+I'm a passionate gamer and footballer! When I'm not coding, you'll find me on the gaming console or football field ⚽🎮
