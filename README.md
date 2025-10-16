@@ -30,4 +30,4 @@ Building responsive web applications
 I'm a passionate gamer and footballer! When I'm not coding, you'll find me on the gaming console or football field ⚽🎮
  
 Badges:
-[![An image of @soumyaghosh2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyaghosh2006)](https://holopin.io/@soumyaghosh2006)
+[![An image of @soumyaghosh2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyaghosh2006)](https://holopin.io/@soumyaghosh2006) 
