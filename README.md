@@ -71,7 +71,7 @@ I'm a Computer Science Engineering student at **KIIT University** who enjoys bui
 | Project | What it is | Stack |
 |---|---|---|
 | **[GLAMGO](https://github.com/SoumyaGhosh2006/GLAMGO)** | E-commerce platform built for a client | MERN |
-| **[KSTOP](https://github.com/SoumyaGhosh2006/KSTOP)** | Student, mentor and hostel management app | JavaScript |
+| **[KSTOP](https://github.com/SoumyaGhosh2006/KSTOP)** | Student, mentor and hostel management app | MERN  |
 | **Aegis** | Crisis management system with real-time data and fallback handling | FastAPI, React, Supabase |
 | **Smart Grievance Platform** | Grievance management with an AI assistant | Node.js, Express, React |
 
