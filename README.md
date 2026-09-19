@@ -62,7 +62,7 @@ I'm a Computer Science Engineering student at **KIIT University** who enjoys bui
 
 ## 🧠 Areas I Work In
 
-`Back-End Development` · `RESTful APIs & CORS` · `Real-time Data Pipelines` · `Multimodal AI` · `NLP` · `System Architecture` · `Fault Tolerance & Fallback Systems` · `Cloud Deployment` · `Data Visualization` · `SEO` · `FinTech`
+`Back-End Development` · `RESTful APIs & CORS` · `Real-time Data Pipelines` · `Multimodal AI` · `NLP` · `System Architecture` · `Fault Tolerance & Fallback Systems` · `Cloud Deployment` · `Data Visualization` · `SEO`
 
 <br/>
 
